@@ -1,0 +1,87 @@
+<html>
+<head>
+<title> INFO ABOUT FREE FIRE </title>
+</head>
+<body>
+<h1> INTRODUCTION TO FREE FIRE </h1>
+<P>
+<IMG SRC="C:\Users\Al_Makkah\Desktop\IMG\FREE FIRE.jpg">&nbsp<IMG SRC="C:\Users\Al_Makkah\Desktop\IMG\download.jpg">&nbsp<IMG SRC="C:\Users\Al_Makkah\Desktop\IMG\free.jpg.jpg"><BR>
+Garena Free Fire, also known as Free Fire, is a battle royale game, developed by 111dots Studio and published by Garena.<BR>
+for Android and iOS It became the most downloaded mobile game globally in 2019.<BR>
+In August 2021, Free Fire set a record with over 150 million daily active users globally.<BR>
+As of 2021, Free Fire has grossed more than $4 billion worldwide.<BR>
+Free Fire Max, a graphically enhanced version of Free Fire was released globally on 28 September 2021.<BR></P>
+<font size="5" color="red" face="Arial black">WHAT IS GARENA?</font><BR>
+Garena Platform (formerly Garena+) acts as the launcher to login, install, download/update,<BR> and open the League of Legends client, which cannot be launched independently.<BR> The patch release is a little delayed compared to other Riot servers.<BR>
+<font size="5" color="GREEN" face="Arial black">GAMEPLAY:</font><BR>
+Garena Free Fire is an online-only action-adventure battle royale game played in third person perspective. A battle royale match consists of up to 50 players parachuting onto an island in search of weapons and equipment to kill the other players. Players are free to choose their starting position and take weapons and supplies to extend their battle life.<BR>
+When players join a game, they are in a plane which flies over an island. While the plane is flying over the island, the players can jump wherever they want, thus allowing them to choose a strategic place to land away from enemies.<BR>
+After landing, the players must then go looking for weapons and utility items. Medical equipment, medium and large weapons, grenades, and other items featured can be found throughout the island.<BR>
+The ultimate goal of the players is to survive on the island with a maximum of 50 players online; this requires eliminating all opponents the players encounter along the way and ensuring that they are the only survivor remaining.<BR>
+The available safe area of the game's map decreases in size over time, directing the surviving players into tighter areas to force encounters. The last player or team standing wins the round.<BR>
+<font size="5" color="PURPLE" face="Arial black">CONCEPT OF FREE FIRE:</font><BR>
+Garena Free Fire is an online-only action-adventure battle royale game played in a third person perspective.<br> The game consists of up to 50 players falling from a parachute on an island in search of weapons and equipment<br> to kill the other players. ... The last player or team standing wins the round.<BR>
+<font size="5" color="blue" face="Arial black">MODES:</font><BR>
+<h2> BATTLE ROYALE </h2>
+In the Battle Royale mode, 50 players land on a random island without weapons.
+All of them have to survive by killing each other using weapons and accessories that are found in the buildings. Players have the option to play this mode solo, or in a team of 2 or 4 players.<BR>
+If players play this mode ranked, it will have an impact on his rank. Whereas, Classic mode is just for fun and practice.<BR>
+<h2>CLASH SQUARD</h2></font>
+The Clash Squad is a 4 VS 4 mode.<BR>
+In this mode, players come with $500 (in-game money) with them.<BR>
+Using this money, the players have to buy weapons and other items from the shop to fight against the opponent team.<BR>
+A total of 7 rounds take place in this mode, out of which a team has to win 4 rounds and get Booyah.<BR>
+A round gets over when a team kills all 4 players of the opponent team.<BR>
+<h2>LONE WOLF</h2>
+The developers of Free Fire have added plenty of new content to the game due to the recent New Age campaign.<BR> Among the most significant additions is the Lone Wolf Ranked mode,<BR> where users can progress through the various ranks to earn a range of free rewards.<BR>
+<h2>TEAM DEATHMATCH </h2>
+Team Deathmatch (TDM) is a game mode in BATTLEGROUNDS,<br> it's a death match type game mode that allows respawning.<br>
+<font size="5" color="Brown" face="Arial black">MAPS:</font><br>
+<p>
+There are several maps in Free fire:
+<h2>ALPHINE</h2>
+<font size="3">An exotic combat experience in the snow-capped mountains and culturally rich terrains.</font><br>
+<IMG SRC="C:\Users\Al_Makkah\Desktop\IMG\map.jpg"><BR>
+<h2>BERMUDA REMASTERED</h2>
+<font size="3">New and Improved Bermuda! Battle areas were expanded and enriched to accommodate<BR> a wider range of play styles</font>.<br>
+<IMG SRC="C:\Users\Al_Makkah\Desktop\IMG\map2.jpg"><br>
+<h2>BERMUDA</h2>
+<font size="3">The classic Battle Royale gameplay experience.</font><br>
+<IMG SRC="C:\Users\Al_Makkah\Desktop\IMG\map3.jpg"><br>
+<h2>Purgatory</h2>
+<font size="3">Spacious battle areas and eclectic types of terrain.</font><br>
+<IMG SRC="C:\Users\Al_Makkah\Desktop\IMG\map4.jpg"><br>
+<h2>Kalahari</h2>
+<font size="3">Complex terrain with high tier loot. Greater map knowledge will most definitely increase<br> your odds of survival.</font><br>
+<IMG SRC="C:\Users\Al_Makkah\Desktop\IMG\map5.jpg"><br>
+<font size="5" color="baby pink" face="Arial black">WEAPONS:</font><br>
+There are many types of weapons in free fire:<br>
+if you want to get knowleadge about them you can check there own website<br>
+Click on the link below;<br>
+<A HREF="https://ff.garena.com/weapons/index/en/">WEAPONS DETAILS</A><P>
+<font size="5" color="orange" face="Arial black">ESPORTS:</font><BR>
+Free Fire introduced the Free Fire World Series in 2019, which was won by Corinthians.<BR>
+In 2020, FFWS was replaced by the Free Fire Continental Series due to the COVID-19 pandemic.<BR>
+In February 2021, Garena announced the Free Fire World Series (FFWS) with a $2 million prize pool,<BR> which was held in May 2021 in Singapore and was won by Phoenix Force (EVOS Esports TH).<BR>
+<font size="5" color="cyan" face="Arial black">Interface:</font><br>
+If you want to explore free fire's interface;<br>
+we recomend you to visit their youtube channel:<br>
+<A HREF="https://www.youtube.com/c/FreeFirePakistanOfficial">OFFICIAL YOUTUBE</A><P>
+<font size="5" color="golden" face="Arial black">DOWNLOAD LINKS PLAYSTORE:</font><br>
+If you want to download from playstore;<br>
+please click on following links:<br>
+<A HREF="https://play.google.com/store/apps/details?id=com.dts.freefiremax">DOWNLOAD FREE FIRE MAX</A><P>
+<A HREF="https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=US">DOWNLOAD FREE FIRE HEROS ARISE</A><P>
+<font size="5" color="silver" face="Arial black">FOR LATEST UPDATES:</font><br>
+For latest updates;<br>
+please check out their website:<br>
+<A HREF="https://ff.garena.com/">OFFICIAL WEBSITE</A><P>
+<h2> FREE FIRE LINKS </h2>
+To know more about free fire check out their platforms;<br>
+<A HREF="https://ff.garena.com/">OFFICIAL WEBSITE</A><P>
+<A HREF="https://www.facebook.com/freefirepkofficial">OFFICIAL FACEBOOK PAGE</A><P>
+<A HREF="https://www.instagram.com/freefirepkofficial/">OFFICIAL INSTRAGRAM</A><P>
+<A HREF="https://twitter.com/FreefirePkyt">OFFICIAL TWITTER</A><P>
+<A HREF="https://www.tiktok.com/@garenafreefirepkofficial?_d=secCgYIASAHKAESMgowSPnplZS75%2Fi6aOGGmMPhw8IHE0%2F1OhHvSsx0HAoGBdgLb525vTAPOOOnqkSG">OFFICIAL TIKTOK PAGE</A><P>
+</body>
+</html>
